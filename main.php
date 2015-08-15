@@ -168,7 +168,7 @@ colors: ['#ff0000']
 </head>
 <body>
 
-  <h1><a href="http://longnap.com">Longnap</a> &raquo; IoTfun</h1>
+  <h1><a href="http://longnap.com">Longnap</a> &raquo; IoT fun</h1>
 
   <ul>
     <li><h3><form>
