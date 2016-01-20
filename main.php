@@ -179,11 +179,5 @@ colors: ['#ff0000']
 <p><div id="chart_div1" class="chart"></div></p>
 <p><div id="chart_div2" class="chart"></div></p>
 
-<script>
-if ( $('#date').type != 'date') {
-    $('#date').datepicker({ dateFormat: 'yy-mm-dd' });
-}
-</script>
-
 </body>
 </html>
